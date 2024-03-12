@@ -1,0 +1,6 @@
+{
+  "email_success": "Email sent successfully",
+  "email_empty": "Enter email address",
+  "invalid_email_format": "Invalid email format",
+  "something_went_wrong": "Something went wrong"
+}
